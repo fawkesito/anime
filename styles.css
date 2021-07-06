@@ -240,4 +240,17 @@ hr {
         width: 100%;
         padding: 60px 20px;
     }
+
+    .showcase {
+        font-size: 28px;
+        
+    }
+
+    .content p {
+        font-size: 19px;
+    }
+    .anime-cards {
+        width: 380px;
+        
+    }
 }
